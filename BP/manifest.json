@@ -4,7 +4,7 @@
         "description": "v1.0.0 - Pack by Mittens4all - Players always spawn in the lobby and can teleport to where they last logged off.",
         "name": "Lobby",
         "uuid": "0bcc8c97-bdd7-4d52-b1c1-2688b6785c72",
-        "version": [ 1, 0, 0 ],
+        "version": [ 1, 0, 1 ],
         "min_engine_version": [ 1, 21, 70 ]
     },
     "modules": [
@@ -20,7 +20,7 @@
             "language": "javascript",
             "uuid": "b9bf54fd-576c-4efc-bd04-20c2cc689196",
             "entry": "scripts/main.js",
-            "version": [ 1, 0, 0 ]
+            "version": [ 1, 0, 1 ]
         }
     ],
     "dependencies": [ 
