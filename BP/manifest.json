@@ -12,7 +12,7 @@
             "description": "Behavior Pack",
             "type": "data",
             "uuid": "e49c12f7-f479-442e-b190-e1455f82071a",
-            "version": [ 1, 0, 0 ]
+            "version": [ 1, 0, 1 ]
         },
         {
             "description": "Scripts Module",
